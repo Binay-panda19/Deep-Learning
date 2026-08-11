@@ -66,7 +66,7 @@ This repository contains concepts, implementations, experiments, notebooks, and 
 Deep-Learning/
 │
 ├── 01-Neural-Networks/
-│   ├── perceptron.ipynb
+│   ├── Perceptron from scratch.ipynb
 │   ├── activation_functions.ipynb
 │   └── gradient_descent.ipynb
 │
