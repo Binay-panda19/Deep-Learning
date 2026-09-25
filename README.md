@@ -60,44 +60,6 @@ This repository contains concepts, implementations, experiments, notebooks, and 
 * TensorFlow / Keras
 * Jupyter Notebook
 
-## 📂 Repository Structure
-
-```text
-Deep-Learning/
-│
-├── 01-Neural-Networks/
-│   ├── Perceptron from scratch.ipynb
-│   ├── activation_functions.ipynb
-│   └── gradient_descent.ipynb
-│
-├── 02-Deep-Neural-Networks/
-│   ├── forward_propagation.ipynb
-│   ├── backpropagation.ipynb
-│   └── optimizers.ipynb
-│
-├── 03-CNN/
-│   ├── cnn_basics.ipynb
-│   └── image_classification.ipynb
-│
-├── 04-RNN/
-│   ├── rnn.ipynb
-│   ├── lstm.ipynb
-│   └── gru.ipynb
-│
-├── 05-Transformers/
-│   ├── attention.ipynb
-│   └── transformers.ipynb
-│
-├── Projects/
-│   ├── project-01/
-│   ├── project-02/
-│   └── project-03/
-│
-├── Notes/
-│
-├── requirements.txt
-└── README.md
-```
 
 ## 🚀 Learning Approach
 
@@ -146,14 +108,14 @@ jupyter notebook
 * [x] NumPy
 * [x] Pandas
 * [x] Machine Learning fundamentals
-* [ ] Neural Networks
-* [ ] Deep Neural Networks
-* [ ] CNN
-* [ ] RNN
-* [ ] LSTM / GRU
+* [x] Neural Networks
+* [x] Deep Neural Networks
+* [x] CNN
+* [x] RNN
+* [x] LSTM / GRU
 * [ ] Transformers
 * [ ] Computer Vision
-* [ ] NLP
+* [x] NLP
 * [ ] Advanced Deep Learning
 * [ ] End-to-end Deep Learning projects
 
